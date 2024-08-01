@@ -78,6 +78,7 @@ section{
     display: flex;
     height: 50vh;
     gap: 1rem;
+    background-color: #F25C54;
 }
 
 .about-img{
